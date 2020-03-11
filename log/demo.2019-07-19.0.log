@@ -1,0 +1,14 @@
+2019-07-19 16:16:13,055 INFO (StartupInfoLogger.java:50)- Starting CompanyApplication on LAPTOP-S6D27TEO with PID 17208 (D:\study\company\target\classes started by 123 in D:\study\company)
+2019-07-19 16:16:13,073 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-19 16:16:13,083 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-19 16:16:18,027 INFO (StartupInfoLogger.java:59)- Started CompanyApplication in 6.069 seconds (JVM running for 8.917)
+2019-07-19 16:16:57,394 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-19 16:16:57,394 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-19 16:16:57,479 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-19 16:16:57,479 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-19 16:16:57,548 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-19 16:16:57,549 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-19 16:18:28,408 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from users where userName=? 
+2019-07-19 16:18:28,410 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: admin(String)
+2019-07-19 16:18:28,414 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 1
+2019-07-19 16:18:28,775 ERROR (JsonUtil.java:129)- {msg=查询成功, code=0, data=com.zryx.company.model.Chat@567f6ec} 对象转Json串失败，失败原因：No serializer found for class java.util.logging.ErrorManager and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: java.util.HashMap["data"]->com.zryx.company.model.Chat["session"]->org.apache.catalina.session.StandardSessionFacade["servletContext"]->org.apache.catalina.core.ApplicationContextFacade["classLoader"]->org.springframework.boot.web.embedded.tomcat.TomcatEmbeddedWebappClassLoader["resources"]->org.apache.catalina.webresources.StandardRoot["context"]->org.springframework.boot.web.embedded.tomcat.TomcatEmbeddedContext["logger"]->org.apache.juli.logging.DirectJDKLog["logger"]->java.util.logging.Logger["parent"]->java.util.logging.Logger["parent"]->java.util.logging.Logger["parent"]->java.util.logging.Logger["parent"]->java.util.logging.LogManager$RootLogger["handlers"]->org.slf4j.bridge.SLF4JBridgeHandler[0]->org.slf4j.bridge.SLF4JBridgeHandler["errorManager"])

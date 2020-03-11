@@ -1,0 +1,195 @@
+2019-07-14 07:57:48,000 INFO (StartupInfoLogger.java:50)- Starting CompanyApplication on LAPTOP-S6D27TEO with PID 16912 (D:\study\company\target\classes started by 123 in D:\study\company)
+2019-07-14 07:57:48,015 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-14 07:57:48,015 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-14 07:57:53,563 INFO (StartupInfoLogger.java:59)- Started CompanyApplication in 6.638 seconds (JVM running for 10.238)
+2019-07-14 07:59:11,421 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-14 07:59:11,421 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-14 07:59:11,465 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-14 07:59:11,465 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-14 07:59:11,533 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-14 07:59:11,533 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-14 08:15:11,792 INFO (StartupInfoLogger.java:50)- Starting CompanyApplication on LAPTOP-S6D27TEO with PID 16912 (D:\study\company\target\classes started by 123 in D:\study\company)
+2019-07-14 08:15:11,792 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-14 08:15:11,792 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-14 08:15:13,244 INFO (StartupInfoLogger.java:59)- Started CompanyApplication in 1.53 seconds (JVM running for 1046.665)
+2019-07-14 08:16:31,867 INFO (StartupInfoLogger.java:50)- Starting CompanyApplication on LAPTOP-S6D27TEO with PID 8080 (D:\study\company\target\classes started by 123 in D:\study\company)
+2019-07-14 08:16:31,867 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-14 08:16:31,867 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-14 08:16:36,638 INFO (StartupInfoLogger.java:59)- Started CompanyApplication in 5.854 seconds (JVM running for 9.613)
+2019-07-14 08:17:14,901 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-14 08:17:14,901 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-14 08:17:14,964 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-14 08:17:14,964 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-14 08:17:15,044 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-14 08:17:15,045 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-14 08:38:56,534 INFO (StartupInfoLogger.java:50)- Starting CompanyApplication on LAPTOP-S6D27TEO with PID 8080 (D:\study\company\target\classes started by 123 in D:\study\company)
+2019-07-14 08:38:56,534 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-14 08:38:56,534 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-14 08:38:58,309 INFO (StartupInfoLogger.java:59)- Started CompanyApplication in 1.884 seconds (JVM running for 1351.277)
+2019-07-14 08:43:52,326 INFO (StartupInfoLogger.java:50)- Starting CompanyApplication on LAPTOP-S6D27TEO with PID 8080 (D:\study\company\target\classes started by 123 in D:\study\company)
+2019-07-14 08:43:52,326 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-14 08:43:52,326 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-14 08:43:54,383 INFO (StartupInfoLogger.java:59)- Started CompanyApplication in 2.135 seconds (JVM running for 1647.352)
+2019-07-14 08:46:34,635 INFO (StartupInfoLogger.java:50)- Starting CompanyApplicationTests on LAPTOP-S6D27TEO with PID 17848 (started by 123 in D:\study\company)
+2019-07-14 08:46:34,636 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-14 08:46:34,636 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-14 08:46:39,924 INFO (StartupInfoLogger.java:59)- Started CompanyApplicationTests in 6.24 seconds (JVM running for 8.734)
+2019-07-14 08:46:40,840 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from users where userName=admin 
+2019-07-14 08:46:40,894 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-14 08:47:38,793 INFO (StartupInfoLogger.java:50)- Starting CompanyApplication on LAPTOP-S6D27TEO with PID 8080 (D:\study\company\target\classes started by 123 in D:\study\company)
+2019-07-14 08:47:38,793 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-14 08:47:38,793 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-14 08:47:40,196 INFO (StartupInfoLogger.java:50)- Starting CompanyApplicationTests on LAPTOP-S6D27TEO with PID 4104 (started by 123 in D:\study\company)
+2019-07-14 08:47:40,203 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-14 08:47:40,206 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-14 08:47:41,536 INFO (StartupInfoLogger.java:59)- Started CompanyApplication in 2.818 seconds (JVM running for 1874.503)
+2019-07-14 08:47:45,582 INFO (StartupInfoLogger.java:59)- Started CompanyApplicationTests in 6.251 seconds (JVM running for 8.687)
+2019-07-14 08:47:46,393 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from users where userName=? 
+2019-07-14 08:47:46,462 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: admin(String)
+2019-07-14 08:47:46,528 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 1
+2019-07-14 08:50:17,805 INFO (StartupInfoLogger.java:50)- Starting CompanyApplication on LAPTOP-S6D27TEO with PID 1156 (D:\study\company\target\classes started by 123 in D:\study\company)
+2019-07-14 08:50:17,808 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-14 08:50:17,808 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-14 08:50:22,148 INFO (StartupInfoLogger.java:59)- Started CompanyApplication in 5.099 seconds (JVM running for 7.473)
+2019-07-14 08:51:03,045 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from users where userName=? 
+2019-07-14 08:51:03,086 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: zzg(String)
+2019-07-14 08:51:03,145 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 1
+2019-07-14 08:51:19,373 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-14 08:51:19,376 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-14 08:51:19,378 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-14 08:51:19,379 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-14 08:51:19,385 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-14 08:51:19,391 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-14 08:51:42,495 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from users where userName=? 
+2019-07-14 08:51:42,495 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: admin(String)
+2019-07-14 08:51:42,495 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 1
+2019-07-14 08:58:35,805 INFO (StartupInfoLogger.java:50)- Starting CompanyApplication on LAPTOP-S6D27TEO with PID 1156 (D:\study\company\target\classes started by 123 in D:\study\company)
+2019-07-14 08:58:35,805 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-14 08:58:35,805 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-14 08:58:37,294 INFO (StartupInfoLogger.java:59)- Started CompanyApplication in 1.541 seconds (JVM running for 502.627)
+2019-07-14 09:07:38,847 INFO (StartupInfoLogger.java:50)- Starting CompanyApplication on LAPTOP-S6D27TEO with PID 1156 (D:\study\company\target\classes started by 123 in D:\study\company)
+2019-07-14 09:07:38,848 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-14 09:07:38,849 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-14 09:07:40,454 INFO (StartupInfoLogger.java:59)- Started CompanyApplication in 1.68 seconds (JVM running for 1045.778)
+2019-07-14 09:36:11,921 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-14 09:36:11,924 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-14 09:36:11,933 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-14 09:36:11,935 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-14 09:36:11,940 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-14 09:36:11,953 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-14 09:36:13,577 INFO (StartupInfoLogger.java:50)- Starting CompanyApplication on LAPTOP-S6D27TEO with PID 1156 (D:\study\company\target\classes started by 123 in D:\study\company)
+2019-07-14 09:36:13,578 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-14 09:36:13,579 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-14 09:36:15,814 INFO (StartupInfoLogger.java:59)- Started CompanyApplication in 2.336 seconds (JVM running for 2761.138)
+2019-07-14 09:36:33,563 INFO (StartupInfoLogger.java:50)- Starting CompanyApplication on LAPTOP-S6D27TEO with PID 19136 (D:\study\company\target\classes started by 123 in D:\study\company)
+2019-07-14 09:36:33,571 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-14 09:36:33,573 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-14 09:36:39,563 INFO (StartupInfoLogger.java:59)- Started CompanyApplication in 7.341 seconds (JVM running for 10.762)
+2019-07-14 09:37:50,613 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-14 09:37:50,613 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-14 09:37:50,678 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-14 09:37:50,678 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-14 09:37:50,760 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-14 09:37:50,760 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-14 09:37:53,065 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-14 09:37:53,068 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-14 09:37:53,072 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-14 09:37:53,074 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-14 09:37:53,081 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-14 09:37:53,081 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-14 09:38:15,974 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from users where userName=? 
+2019-07-14 09:38:15,975 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: admin(String)
+2019-07-14 09:38:15,980 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 1
+2019-07-14 09:38:16,131 ERROR (BaseController.java:285)- 系统异常:java.util.ArrayList cannot be cast to java.util.LinkedList
+java.lang.ClassCastException: java.util.ArrayList cannot be cast to java.util.LinkedList
+	at com.zryx.company.controller.ChatController.initChat(ChatController.java:30)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:104)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1039)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:908)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2019-07-14 09:39:32,406 INFO (StartupInfoLogger.java:50)- Starting CompanyApplication on LAPTOP-S6D27TEO with PID 14096 (D:\study\company\target\classes started by 123 in D:\study\company)
+2019-07-14 09:39:32,416 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-14 09:39:32,416 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-14 09:39:37,069 INFO (StartupInfoLogger.java:59)- Started CompanyApplication in 5.384 seconds (JVM running for 7.866)
+2019-07-14 09:39:54,966 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from users where userName=? 
+2019-07-14 09:39:55,014 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: admin(String)
+2019-07-14 09:39:55,056 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 1
+2019-07-14 09:40:03,989 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-14 09:40:03,989 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-14 09:40:03,991 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-14 09:40:03,991 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-14 09:40:04,001 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-14 09:40:04,001 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-14 09:40:06,004 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-14 09:40:06,006 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-14 09:40:06,011 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-14 09:40:06,013 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-14 09:40:06,019 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-14 09:40:06,024 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-14 09:40:14,696 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from users where userName=? 
+2019-07-14 09:40:14,696 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: zzg(String)
+2019-07-14 09:40:14,706 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 1
+2019-07-14 09:45:17,856 INFO (StartupInfoLogger.java:50)- Starting CompanyApplication on LAPTOP-S6D27TEO with PID 14056 (D:\study\company\target\classes started by 123 in D:\study\company)
+2019-07-14 09:45:17,869 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-14 09:45:17,876 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-14 09:45:22,619 INFO (StartupInfoLogger.java:59)- Started CompanyApplication in 5.493 seconds (JVM running for 7.901)
+2019-07-14 09:45:41,142 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-14 09:45:41,166 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-14 09:45:41,222 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-14 09:45:41,222 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-14 09:45:41,370 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-14 09:45:41,374 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-14 09:45:48,146 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from users where userName=? 
+2019-07-14 09:45:48,146 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: admin(String)
+2019-07-14 09:45:48,148 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 1
+2019-07-14 09:45:48,366 ERROR (JsonUtil.java:129)- {msg=查询成功, code=0, data=com.zryx.company.model.Chat@2428bb37} 对象转Json串失败，失败原因：No serializer found for class java.util.logging.ErrorManager and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: java.util.HashMap["data"]->com.zryx.company.model.Chat["session"]->org.apache.catalina.session.StandardSessionFacade["servletContext"]->org.apache.catalina.core.ApplicationContextFacade["classLoader"]->org.springframework.boot.web.embedded.tomcat.TomcatEmbeddedWebappClassLoader["resources"]->org.apache.catalina.webresources.StandardRoot["context"]->org.springframework.boot.web.embedded.tomcat.TomcatEmbeddedContext["logger"]->org.apache.juli.logging.DirectJDKLog["logger"]->java.util.logging.Logger["parent"]->java.util.logging.Logger["parent"]->java.util.logging.Logger["parent"]->java.util.logging.Logger["parent"]->java.util.logging.LogManager$RootLogger["handlers"]->org.slf4j.bridge.SLF4JBridgeHandler[0]->org.slf4j.bridge.SLF4JBridgeHandler["errorManager"])

@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body background="image/bookbg.gif" leftMargin="0" topMargin="3" marginheight="0" marginwidth="0">
+<div align="center">
+    <IMG src="image/welcome.jpg">
+</div>
+<div align="center">
+    <table border=0 cellSpacing="1" cellPadding="4" width="750" align="center">
+        <tbody>
+        <tr>
+            <td class=unnamed2 height=20 colSpan=2 align=right><marquee
+                    onmouseover=stop(); onmouseout=start(); scrollAmount=3>
+                <b><span style="color:#000099">欢迎您使用&nbsp;留言本&nbsp;</span> </b>
+            </marquee></td>
+        </tr>
+        <tr>
+            <td><A style="margin-left:-5px;" href="index.html">首页</A> &gt; 留言板
+                <hr style="margin-left:-5px;"/>
+            </td>
+        </tr>
+        </tbody>
+    </table>
+    <div style="width:750px" align="center">
+        <div align="left">
+            <table border="0" cellSpacing="0" cellPadding="0" height="20">
+                <tbody>
+                <tr>
+                    <td background="image/titlemu_1.gif" width="11"></td>
+                    <td background="image/titlemu_2.gif">
+                        <div align=center>
+                            <a class=jdmenu
+                               href="http://localhost:8080/company/newMessage.jsp"><b>新留言</b>
+                            </a>
+                        </div>
+                    </td>
+                    <td background="image/titlemu_3.gif" width="12"></td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <form method=post name=form action=index.asp>
+        <table style="BORDER-COLLAPSE: collapse" border=0 cellSpacing=0
+               borderColor=#111111 cellPadding=0 width=750 align=center>
+            <tbody>
+            <tr>
+                <td width="2%"><img border=0 src="images/T_left.gif">
+                </td>
+                <td width="96%" hight="25px;"><img src="image/Tt_bg.jpg" width="554" height="24" style="margin-top:3px;"/></td>
+                <td width="2%"><img border=0 src="image/T_right.gif" >
+                </td>
+            </tr>
+            </tbody>
+        </table>
+        <TABLE style="BORDER-COLLAPSE: collapse; WORD-WRAP: break-word"
+               class=jd_tab border=1 cellSpacing=0 cellPadding=3 width=750
+               align=center height=51>
+            <TBODY>
+            <TR class=jd_titlemu>
+                <TD class=jd_tab width="10%">
+                    <DIV align=center>回复</DIV>
+                </TD>
+                <TD class=jd_tab width="40%">
+                    <DIV align=center>标题</DIV>
+                </TD>
+                <TD class=jd_tab width="15%">
+                    <DIV align=center>作者</DIV>
+                </TD>
+                <TD class=jd_tab width="25%">
+                    <DIV align=center>时间</DIV>
+                </TD>
+                <TD class=jd_tab width="10%">
+                    <DIV align=center>回复留言</DIV>
+                </TD>
+            </TR>
+            <c:forEach items="${pu.pageDatas }" var="message">
+                <TR class=unnamed1>
+                    <TD class=jd_tab height=25 vAlign=top width="10%" align=center>${message.count }
+                    </TD>
+                    <TD class=jd_tab height=25 vAlign=top width="40%" align=left><A
+                            href="MessageServlet?oper=revertMessage&messageId=${message.messageID }">${message.title } </A></TD>
+                    <TD class=jd_tab height=25 vAlign=top width="15%" align=center><FONT
+                            color=#666666>${message.writer }</FONT></TD>
+                    <TD class=jd_tab height=25 vAlign=top width="25%" align=left><FONT
+                            color=#666666>${message.writerDate } </FONT></TD>
+                    <td class=jd_tab height=25 vAlign=top width="25%" align=left>
+                        <a href="MessageServlet?oper=revertMessage&messageId=${message.messageID }">回复留言</a>
+                    </td>
+                </TR>
+            </c:forEach>
+            </TBODY>
+        </TABLE>
+        <TABLE style="BORDER-COLLAPSE: collapse" border=0 cellSpacing=0
+               cellPadding=0 width=750 align=center>
+            <TBODY>
+            <TR>
+                <TD><IMG border=0 src="images/T_bottomleft.gif"></TD>
+                <TD background=images/T_bottombg.gif width="100%"></TD>
+                <TD><IMG border=0 src="images/T_bottomright.gif"></TD>
+            </TR>
+            </TBODY>
+        </TABLE>
+    </form>
+    <div style="margin-top:20px;">
+
+    </div>
+</div>
+</body>
+</html>

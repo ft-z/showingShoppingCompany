@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>聊天登录</title>
+    <!-- for-mobile-apps -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+    <!-- //for-mobile-apps -->
+    <link href="/css/loginstyle.css" rel="stylesheet" type="text/css" media="all"/>
+    <script src="/js/jquery/jquery-1.12.4.min.js"></script>
+    <script src="/js/jquery/jquery.form.js"></script>
+    <script src="/js/moment/moment.min.js"></script>
+    <script src="/js/numeral/numeral.min.js"></script>
+    <script src="/js/numeral/chs.min.js"></script>
+    <script src="/js/common/base.js"></script>
+    <script src="/js/common/normal.js"></script>
+</head>
+<body>
+<!-- main -->
+<div class="main">
+    <h1>
+        聊天登录系统
+    </h1>
+    <form id="ff">
+        <input id="test" type="text" name="userName" value="用户名" onFocus="this.value = '';"
+               onBlur="if (this.value == '') {this.value = '用户名';}"
+               required="">
+        <input type="password" name="password" value="Password" onFocus="this.value = '';"
+               onBlur="if (this.value == '') {this.value = '';}"
+               required="">
+        <input type="button" value="登录" onclick="login()">
+    </form>
+</div>
+<div class="footer">
+    <p>
+        @ Commodity Inquiry System
+    </p>
+</div>
+<script>
+    /* 这页面不要更新版本
+    * 2019/7/25
+    *
+    *
+    * */
+    function login() {
+        $.post("/login", $("#ff").serialize(), function (result) {
+            var obj = $.dealJSONObj(result);
+            if (obj.code == 0) {
+                var status=obj.data.status;
+                alert("status "+status)
+                // location.href = "houtai.html";
+
+                if (status == 1) {
+                    location.href = "houtai.html";
+                }
+                else if (status == 0) {
+                    location.href = "chat.html";
+                }
+
+
+            }
+            else
+            {
+                alert(obj.msg);
+            }
+        })
+
+    }
+</script>
+</body>
+</html>

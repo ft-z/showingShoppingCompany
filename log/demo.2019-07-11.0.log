@@ -1,0 +1,923 @@
+2019-07-11 02:37:50,099 INFO (StartupInfoLogger.java:50)- Starting CompanyApplication on LAPTOP-S6D27TEO with PID 18592 (D:\study\company\target\classes started by 123 in D:\study\company)
+2019-07-11 02:37:50,108 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-11 02:37:50,109 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-11 02:37:50,963 INFO (StartupInfoLogger.java:50)- Starting CompanyApplicationTests on LAPTOP-S6D27TEO with PID 1736 (started by 123 in D:\study\company)
+2019-07-11 02:37:50,966 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-11 02:37:50,968 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-11 02:37:52,891 INFO (StartupInfoLogger.java:59)- Started CompanyApplication in 2.845 seconds (JVM running for 2350.13)
+2019-07-11 02:37:56,777 INFO (StartupInfoLogger.java:59)- Started CompanyApplicationTests in 6.948 seconds (JVM running for 9.644)
+2019-07-11 02:37:57,646 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 02:37:57,733 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 02:37:57,848 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 02:37:57,856 DEBUG (CompanyApplicationTests.java:29)- 黄金周最热销手机汇总导购
+2019-07-11 02:37:57,857 DEBUG (CompanyApplicationTests.java:29)- 三星女性翻盖E428行货仅1180
+2019-07-11 02:37:57,858 DEBUG (CompanyApplicationTests.java:29)- 庆十一商品促销
+2019-07-11 02:37:57,859 DEBUG (CompanyApplicationTests.java:29)- 时尚浪漫情侣手机配对推荐
+2019-07-11 02:37:57,860 DEBUG (CompanyApplicationTests.java:29)- 爱国者数码相机今日七折优惠
+2019-07-11 02:37:57,860 DEBUG (CompanyApplicationTests.java:29)- 国庆各品牌最好卖的相机
+2019-07-11 02:37:57,861 DEBUG (CompanyApplicationTests.java:29)- 国庆期间降价最猛八款数码相机
+2019-07-11 02:37:57,861 DEBUG (CompanyApplicationTests.java:29)- 单反与镜头组合
+2019-07-11 02:40:48,490 INFO (StartupInfoLogger.java:50)- Starting CompanyApplication on LAPTOP-S6D27TEO with PID 18592 (D:\study\company\target\classes started by 123 in D:\study\company)
+2019-07-11 02:40:48,490 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-11 02:40:48,491 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-11 02:40:49,765 INFO (StartupInfoLogger.java:59)- Started CompanyApplication in 1.315 seconds (JVM running for 2527.005)
+2019-07-11 02:47:53,447 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 02:47:53,494 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 02:47:53,545 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 02:54:06,861 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 02:54:06,863 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 02:54:06,874 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 02:54:10,354 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 02:54:10,356 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 02:54:10,363 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 02:57:06,097 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 02:57:06,098 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 02:57:06,103 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 02:57:09,417 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 02:57:09,418 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 02:57:09,423 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:00:13,190 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 03:00:13,191 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:00:13,196 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:01:41,065 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 03:01:41,066 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:01:41,071 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:01:44,277 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 03:01:44,278 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:01:44,283 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:02:47,208 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 03:02:47,209 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:02:47,217 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:03:09,818 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 03:03:09,819 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:03:09,824 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:03:12,519 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 03:03:12,522 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:03:12,527 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:03:50,608 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 03:03:50,610 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:03:50,613 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:03:53,368 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 03:03:53,369 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:03:53,373 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:04:13,803 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 03:04:13,805 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:04:13,810 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:04:15,871 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 03:04:15,873 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:04:15,876 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:04:45,614 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 03:04:45,616 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:04:45,621 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:04:48,720 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 03:04:48,721 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:04:48,725 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:05:01,713 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 03:05:01,714 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:05:01,718 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:05:03,853 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 03:05:03,854 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:05:03,858 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:05:16,018 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 03:05:16,020 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:05:16,023 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:05:29,395 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 03:05:29,397 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:05:29,400 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:05:32,011 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 03:05:32,012 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:05:32,016 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:05:59,161 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 03:05:59,163 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:05:59,168 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:06:01,564 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 03:06:01,565 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:06:01,570 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:06:04,707 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 03:06:04,708 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:06:04,712 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:08:25,781 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 03:08:25,783 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:08:25,786 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:08:38,353 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 03:08:38,354 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:08:38,358 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:18:56,237 INFO (StartupInfoLogger.java:50)- Starting CompanyApplication on LAPTOP-S6D27TEO with PID 18592 (D:\study\company\target\classes started by 123 in D:\study\company)
+2019-07-11 03:18:56,238 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-11 03:18:56,239 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-11 03:18:57,818 INFO (StartupInfoLogger.java:59)- Started CompanyApplication in 1.654 seconds (JVM running for 4815.058)
+2019-07-11 03:25:51,795 INFO (StartupInfoLogger.java:50)- Starting CompanyApplication on LAPTOP-S6D27TEO with PID 18592 (D:\study\company\target\classes started by 123 in D:\study\company)
+2019-07-11 03:25:51,796 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-11 03:25:51,797 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-11 03:25:53,144 INFO (StartupInfoLogger.java:59)- Started CompanyApplication in 1.396 seconds (JVM running for 5230.384)
+2019-07-11 03:35:18,981 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 03:35:18,984 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:35:18,988 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:36:07,487 INFO (StartupInfoLogger.java:50)- Starting CompanyApplicationTests on LAPTOP-S6D27TEO with PID 2252 (started by 123 in D:\study\company)
+2019-07-11 03:36:07,491 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-11 03:36:07,493 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-11 03:36:14,911 INFO (StartupInfoLogger.java:59)- Started CompanyApplicationTests in 8.813 seconds (JVM running for 11.883)
+2019-07-11 03:36:16,809 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 03:36:16,895 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:36:17,099 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:36:17,131 DEBUG (CompanyApplicationTests.java:29)- 黄金周最热销手机汇总导购
+2019-07-11 03:36:17,163 DEBUG (CompanyApplicationTests.java:29)- 三星女性翻盖E428行货仅1180
+2019-07-11 03:36:17,163 DEBUG (CompanyApplicationTests.java:29)- 庆十一商品促销
+2019-07-11 03:36:17,164 DEBUG (CompanyApplicationTests.java:29)- 时尚浪漫情侣手机配对推荐
+2019-07-11 03:36:17,165 DEBUG (CompanyApplicationTests.java:29)- 爱国者数码相机今日七折优惠
+2019-07-11 03:36:17,166 DEBUG (CompanyApplicationTests.java:29)- 国庆各品牌最好卖的相机
+2019-07-11 03:36:17,166 DEBUG (CompanyApplicationTests.java:29)- 国庆期间降价最猛八款数码相机
+2019-07-11 03:36:17,167 DEBUG (CompanyApplicationTests.java:29)- 单反与镜头组合
+2019-07-11 03:36:24,549 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 03:36:24,552 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:36:24,565 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:36:42,529 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 03:36:42,531 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:36:42,537 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:36:50,700 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 03:36:50,701 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:36:50,704 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:38:05,475 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 03:38:05,477 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:38:05,480 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:38:43,383 INFO (StartupInfoLogger.java:50)- Starting CompanyApplication on LAPTOP-S6D27TEO with PID 12928 (D:\study\company\target\classes started by 123 in D:\study\company)
+2019-07-11 03:38:43,426 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-11 03:38:43,427 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-11 03:39:05,323 INFO (StartupInfoLogger.java:59)- Started CompanyApplication in 25.207 seconds (JVM running for 37.972)
+2019-07-11 03:39:30,704 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 03:39:31,020 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:39:31,243 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:39:47,555 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 03:39:53,057 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:41:26,508 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:53:32,955 INFO (StartupInfoLogger.java:50)- Starting CompanyApplication on LAPTOP-S6D27TEO with PID 2696 (D:\study\company\target\classes started by 123 in D:\study\company)
+2019-07-11 03:53:32,971 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-11 03:53:32,971 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-11 03:53:37,684 INFO (StartupInfoLogger.java:59)- Started CompanyApplication in 5.868 seconds (JVM running for 9.534)
+2019-07-11 03:53:38,975 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 03:53:39,024 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:53:39,085 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:53:47,976 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 03:53:47,979 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:53:47,990 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:53:58,423 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 03:53:58,425 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:55:15,213 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:55:19,899 INFO (StartupInfoLogger.java:50)- Starting CompanyApplication on LAPTOP-S6D27TEO with PID 16604 (D:\study\company\target\classes started by 123 in D:\study\company)
+2019-07-11 03:55:19,907 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-11 03:55:19,909 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-11 03:55:24,645 INFO (StartupInfoLogger.java:59)- Started CompanyApplication in 5.837 seconds (JVM running for 8.56)
+2019-07-11 03:55:31,247 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 03:55:31,247 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 03:55:31,299 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:55:31,299 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:55:31,393 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:55:31,396 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:55:34,213 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 03:55:34,213 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 03:55:34,215 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:55:34,215 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:55:34,223 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:55:34,228 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:55:45,629 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 03:55:45,629 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 03:55:45,630 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:55:45,630 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:55:45,636 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:55:45,636 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:57:08,558 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 03:57:08,560 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:57:08,562 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 03:57:08,563 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:57:08,567 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:57:08,568 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:58:03,881 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 03:58:03,881 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 03:58:03,882 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:58:03,882 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 03:58:03,888 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 03:58:03,888 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:01:37,412 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 04:01:37,412 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 04:01:37,414 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:01:37,414 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:01:37,418 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:01:37,418 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:02:16,267 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 04:02:16,267 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 04:02:16,268 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:02:16,269 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:02:16,275 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:02:16,277 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:03:31,302 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 04:03:31,304 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:03:31,308 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:03:31,317 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 04:03:31,319 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:03:31,323 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:05:02,682 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 04:05:02,682 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 04:05:02,685 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:05:02,685 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:05:02,692 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:05:02,692 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:05:30,465 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 04:05:30,466 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 04:05:30,468 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:05:30,468 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:05:30,472 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:05:30,472 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:10:46,520 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 04:10:46,522 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:10:46,527 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:10:46,532 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 04:10:46,534 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:10:46,538 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:14:17,414 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 04:14:17,416 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 04:14:17,417 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:14:17,418 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:14:17,421 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:14:17,421 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:14:26,655 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 04:14:26,656 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 04:14:26,657 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:14:26,657 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:14:26,660 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:14:26,660 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:15:13,421 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 04:15:13,422 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:15:13,426 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:15:13,430 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 04:15:13,432 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:15:13,435 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:17:25,823 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 04:17:25,823 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 04:17:25,825 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:17:25,828 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:17:25,829 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:17:25,831 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:17:35,917 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 04:17:35,919 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:17:35,923 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 04:17:35,925 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:17:35,925 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:17:35,928 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:18:14,421 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 04:18:14,421 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 04:18:14,422 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:18:14,423 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:18:14,426 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:18:14,426 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:18:20,142 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 04:18:20,142 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 04:18:20,143 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:18:20,143 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:18:20,146 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:18:20,146 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:18:29,427 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 04:18:29,429 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:18:29,432 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:18:29,432 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 04:18:29,434 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:18:29,436 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:18:42,016 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 04:18:42,017 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:18:42,016 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 04:18:42,019 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:18:42,021 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:18:42,023 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:18:56,304 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 04:18:56,306 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:18:56,309 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 04:18:56,310 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:18:56,310 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:18:56,314 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:19:11,761 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 04:19:11,762 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 04:19:11,762 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:19:11,763 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:19:11,765 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:19:11,766 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:19:15,225 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 04:19:15,227 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:19:15,231 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 04:19:15,231 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:19:15,232 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:19:15,235 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:19:48,552 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 04:19:48,554 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:19:48,557 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:19:48,589 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 04:19:48,590 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:19:48,593 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:19:54,470 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 04:19:54,470 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 04:19:54,471 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:19:54,471 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:19:54,474 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:19:54,474 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:22:24,160 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 04:22:24,160 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 04:22:24,162 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:22:24,162 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:22:24,165 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:22:24,165 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:23:11,660 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 04:23:11,660 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 04:23:11,661 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:23:11,661 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:23:11,665 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:23:11,680 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:23:21,477 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 04:23:21,477 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 04:23:21,478 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:23:21,478 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:23:21,481 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:23:21,481 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:24:01,784 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 04:24:01,785 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:24:01,787 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:24:01,805 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 04:24:01,806 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:24:01,809 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:24:03,749 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 04:24:03,749 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 04:24:03,750 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:24:03,750 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:24:03,752 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:24:03,752 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:24:56,571 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 04:24:56,574 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 04:24:56,574 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:24:56,576 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:24:56,577 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:24:56,579 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:24:59,484 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 04:24:59,485 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:24:59,486 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 04:24:59,487 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:24:59,488 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:24:59,490 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:25:03,925 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 04:25:03,926 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:25:03,931 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:25:03,931 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 04:25:03,933 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:25:03,936 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:25:15,847 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 04:25:15,847 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 04:25:15,848 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:25:15,848 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:25:15,850 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:25:15,850 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:25:20,445 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 04:25:20,444 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 04:25:20,446 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:25:20,446 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:25:20,448 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:25:20,449 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:32:32,674 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 04:32:32,677 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 04:32:32,678 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:32:32,679 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:32:32,683 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:32:32,684 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:33:10,591 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 04:33:10,591 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 04:33:10,592 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:33:10,593 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:33:10,595 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:33:10,599 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:38:08,834 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 04:38:08,836 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:38:08,839 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:38:08,839 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 04:38:08,840 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:38:08,843 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:39:22,922 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 04:39:22,923 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 04:39:22,924 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:39:22,924 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:39:22,926 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:39:22,926 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:40:54,105 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 04:40:54,107 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:40:54,109 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 04:40:54,111 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 04:40:54,111 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 04:40:54,113 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:01:29,248 INFO (StartupInfoLogger.java:50)- Starting CompanyApplication on LAPTOP-S6D27TEO with PID 12856 (D:\study\company\target\classes started by 123 in D:\study\company)
+2019-07-11 20:01:29,286 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-11 20:01:29,303 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-11 20:01:34,974 INFO (StartupInfoLogger.java:59)- Started CompanyApplication in 7.225 seconds (JVM running for 11.77)
+2019-07-11 20:02:23,836 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:02:23,837 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:02:23,910 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:02:23,910 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:02:24,012 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:02:24,034 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:05:29,728 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:05:29,730 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:05:29,730 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:05:29,731 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:05:29,743 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:05:29,746 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:07:34,924 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:07:34,926 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:07:34,926 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:07:34,927 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:07:34,934 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:07:34,934 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:07:39,323 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:07:39,325 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:07:39,330 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:07:39,334 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:07:39,335 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:07:39,341 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:09:57,434 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:09:57,436 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:09:57,436 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:09:57,437 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:09:57,440 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:09:57,441 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:10:02,244 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:10:02,246 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:10:02,248 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:10:02,249 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:10:02,250 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:10:02,254 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:10:06,626 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:10:06,628 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:10:06,629 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:10:06,630 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:10:06,634 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:10:06,635 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:30:08,104 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:30:08,106 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:30:08,111 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:30:08,111 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:30:08,112 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:30:08,118 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:30:47,704 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:30:47,703 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:30:47,706 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:30:47,706 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:30:47,713 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:30:47,713 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:30:49,316 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:30:49,316 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:30:49,318 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:30:49,318 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:30:49,321 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:30:49,321 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:30:50,447 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:30:50,449 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:30:50,449 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:30:50,451 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:30:50,455 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:30:50,457 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:30:53,008 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:30:53,009 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:30:53,013 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:30:53,013 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:30:53,014 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:30:53,020 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:31:30,586 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:31:30,589 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:31:30,589 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:31:30,590 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:31:30,592 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:31:30,593 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:31:31,655 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:31:31,656 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:31:31,656 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:31:31,657 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:31:31,660 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:31:31,661 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:31:52,997 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:31:53,003 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:31:53,004 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:31:53,008 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:31:53,008 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:31:53,020 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:32:28,726 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:32:28,726 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:32:28,727 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:32:28,727 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:32:28,732 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:32:28,733 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:32:29,842 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:32:29,843 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:32:29,844 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:32:29,845 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:32:29,846 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:32:29,848 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:34:13,812 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:34:13,813 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:34:13,814 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:34:13,815 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:34:13,819 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:34:13,820 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:34:57,429 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:34:57,431 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:34:57,431 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:34:57,432 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:34:57,433 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:34:57,435 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:35:11,795 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:35:11,796 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:35:11,797 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:35:11,797 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:35:11,804 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:35:11,805 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:35:22,862 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:35:22,862 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:35:22,863 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:35:22,863 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:35:22,866 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:35:22,866 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:35:33,279 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:35:33,280 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:35:33,280 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:35:33,281 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:35:33,283 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:35:33,284 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:35:34,264 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:35:34,265 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:35:34,267 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:35:34,268 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:35:34,268 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:35:34,272 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:35:49,122 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:35:49,122 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:35:49,123 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:35:49,123 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:35:49,126 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:35:49,126 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:36:03,815 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:36:03,815 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:36:03,816 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:36:03,816 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:36:03,819 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:36:03,819 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:36:41,024 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:36:41,026 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:36:41,034 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:36:41,035 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:36:41,035 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:36:41,039 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:36:45,095 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:36:45,096 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:36:45,096 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:36:45,097 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:36:45,098 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:36:45,101 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:36:53,064 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:36:53,065 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:36:53,066 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:36:53,067 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:36:53,068 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:36:53,070 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:36:54,144 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:36:54,145 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:36:54,147 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:36:54,148 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:36:54,148 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:36:54,151 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:37:06,982 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:37:06,982 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:37:06,983 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:37:06,984 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:37:06,986 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:37:06,987 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:37:09,037 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:37:09,038 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:37:09,038 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:37:09,039 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:37:09,041 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:37:09,042 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:37:50,321 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:37:50,322 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:37:50,326 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:37:50,334 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:37:50,335 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:37:50,338 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:37:52,091 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:37:52,091 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:37:52,092 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:37:52,092 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:37:52,098 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:37:52,098 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:38:05,412 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:38:05,413 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:38:05,413 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:38:05,417 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:38:05,417 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:38:05,421 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:38:06,512 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:38:06,514 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:38:06,514 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:38:06,516 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:38:06,518 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:38:06,519 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:38:07,464 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:38:07,465 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:38:07,466 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:38:07,466 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:38:07,469 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:38:07,469 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:38:16,609 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:38:16,610 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:38:16,610 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:38:16,611 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:38:16,613 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:38:16,614 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:38:17,861 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:38:17,863 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:38:17,866 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:38:17,867 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:38:17,868 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:38:17,873 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:38:28,629 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:38:28,631 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:38:28,633 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:38:28,633 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:38:28,634 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:38:28,636 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:39:15,041 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:39:15,040 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:39:15,042 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:39:15,042 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:39:15,045 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:39:15,045 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:40:00,076 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:40:00,076 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:40:00,078 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:40:00,078 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:40:00,082 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:40:00,082 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:40:01,879 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:40:01,879 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:40:01,880 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:40:01,881 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:40:01,883 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:40:01,884 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:40:26,776 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:40:26,777 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:40:26,779 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:40:26,780 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:40:26,780 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:40:26,783 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:40:28,948 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:40:28,949 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:40:28,952 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:40:28,952 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:40:28,953 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:40:28,957 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:40:39,185 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:40:39,185 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:40:39,187 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:40:39,188 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:40:39,188 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:40:39,191 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:40:40,871 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:40:40,872 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:40:40,875 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:40:40,876 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:40:40,879 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:40:40,881 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:41:29,804 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:41:29,804 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:41:29,805 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:41:29,805 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:41:29,808 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:41:29,808 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:42:17,503 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:42:17,504 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:42:17,506 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:42:17,512 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:42:17,513 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:42:17,515 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:42:21,585 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:42:21,587 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:42:21,588 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:42:21,589 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:42:21,591 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:42:21,596 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:42:22,737 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:42:22,736 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:42:22,738 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:42:22,738 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:42:22,741 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:42:22,741 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:42:40,082 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:42:40,086 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:42:40,085 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:42:40,088 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:42:40,089 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:42:40,091 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:42:41,370 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:42:41,372 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:42:41,374 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:42:41,374 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:42:41,375 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:42:41,376 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:43:13,402 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:43:13,402 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:43:13,405 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:43:13,405 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:43:13,407 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:43:13,407 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:45:24,942 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:45:24,942 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:45:24,944 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:45:24,944 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:45:24,946 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:45:24,946 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:46:29,312 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:46:29,313 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:46:29,316 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:46:29,316 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:46:29,317 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:46:29,320 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:46:30,550 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:46:30,551 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:46:30,553 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:46:30,554 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:46:30,554 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:46:30,558 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:46:31,416 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:46:31,418 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:46:31,423 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:46:31,424 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:46:31,425 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:46:31,429 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:47:23,951 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:47:23,951 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:47:23,952 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:47:23,953 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:47:23,956 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:47:23,957 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:47:36,281 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:47:36,281 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:47:36,282 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:47:36,282 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:47:36,285 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:47:36,285 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:47:54,871 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:47:54,873 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:47:54,875 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:47:54,878 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:47:54,877 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:47:54,880 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:48:21,746 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:48:21,747 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:48:21,752 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:48:21,752 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:48:21,753 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:48:21,756 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:48:23,296 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:48:23,296 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:48:23,297 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:48:23,297 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:48:23,299 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:48:23,299 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:48:40,160 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:48:40,162 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:48:40,164 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:48:40,165 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:48:40,165 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:48:40,167 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:48:41,897 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:48:41,898 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:48:41,898 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:48:41,899 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:48:41,900 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:48:41,902 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:48:51,176 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:48:51,177 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:48:51,180 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:48:51,180 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:48:51,181 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:48:51,184 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:48:53,491 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:48:53,493 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:48:53,495 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:48:53,498 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:48:53,499 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:48:53,501 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:48:55,252 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:48:55,252 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:48:55,255 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:48:55,266 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:48:55,267 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:48:55,274 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:49:05,843 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:49:05,844 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:49:05,845 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:49:05,846 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:49:05,846 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:49:05,851 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:49:07,197 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:49:07,198 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:49:07,201 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:49:07,202 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:49:07,205 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:49:07,207 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:49:17,672 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:49:17,673 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:49:17,674 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:49:17,675 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:49:17,675 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:49:17,676 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:49:18,598 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:49:18,599 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:49:18,601 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:49:18,611 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:49:18,612 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:49:18,614 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:49:29,065 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:49:29,067 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:49:29,067 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:49:29,067 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:49:29,068 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:49:29,069 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:49:30,154 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:49:30,155 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:49:30,157 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:49:30,157 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:49:30,158 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:49:30,162 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:49:41,309 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:49:41,309 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:49:41,309 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:49:41,309 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:49:41,311 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:49:41,311 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:54:01,593 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:54:01,595 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:54:01,599 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:54:01,599 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:54:01,601 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:54:01,603 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:55:30,421 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:55:30,422 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:55:30,423 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:55:30,423 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:55:30,424 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:55:30,425 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:59:21,887 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 20:59:21,888 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:59:21,890 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 20:59:21,890 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 20:59:21,891 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 20:59:21,893 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 21:01:47,932 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 21:01:47,935 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 21:01:47,935 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 21:01:47,935 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 21:01:47,937 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 21:01:47,938 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 21:02:03,952 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 21:02:03,954 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 21:02:03,961 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 21:02:03,963 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 21:02:03,967 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 21:02:03,968 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 21:02:05,224 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 21:02:05,224 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 21:02:05,225 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 21:02:05,225 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 21:02:05,227 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 21:02:05,227 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 21:03:05,043 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 21:03:05,044 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 21:03:05,050 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 21:03:05,050 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 21:03:05,051 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 21:03:05,059 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 21:03:06,568 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 21:03:06,569 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 21:03:06,571 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 21:03:06,573 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 21:03:06,574 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 21:03:06,576 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 21:05:48,181 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 21:05:48,183 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 21:05:48,184 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 21:05:48,187 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 21:05:48,188 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 21:05:48,190 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 21:14:56,508 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 21:14:56,508 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 21:14:56,510 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 21:14:56,510 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 21:14:56,514 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 21:14:56,514 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 21:17:31,374 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-11 21:17:31,374 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-11 21:17:31,375 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 21:17:31,375 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-11 21:17:31,377 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-11 21:17:31,378 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8

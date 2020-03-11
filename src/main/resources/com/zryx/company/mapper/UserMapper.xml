@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.zryx.company.mapper.UserMapper">
+
+    <insert id="addUser" parameterType="com.zryx.company.model.User">
+          INSERT INTO users VALUES(NULL,#{userName} ,#{password} ,#{status},#{loginStatus})
+    </insert>
+
+
+    <delete id="delUser">
+        DELETE FROM users WHERE userId =#{userId}
+    </delete>
+
+    <!--attention this name-->
+    <update id="updUser" parameterType="com.zryx.company.model.User">
+       UPDATE users SET userName=#{userName},password=#{password},status=#{status} WHERE userId=#{userId}
+    </update>
+
+    <select id="getUserById" resultType="com.zryx.company.model.User">
+       SELECT * FROM users WHERE userId=#{id}
+    </select>
+
+    <select id="getUserByName" resultType="com.zryx.company.model.User">
+        SELECT * FROM users WHERE userName=#{userName}
+    </select>
+    <select id="getAllUser" resultType="com.zryx.company.model.User">
+        SELECT * FROM users
+    </select>
+
+
+</mapper>

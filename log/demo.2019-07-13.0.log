@@ -1,0 +1,194 @@
+2019-07-13 10:28:12,091 INFO (StartupInfoLogger.java:50)- Starting CompanyApplication on LAPTOP-S6D27TEO with PID 14892 (D:\study\company\target\classes started by 123 in D:\study\company)
+2019-07-13 10:28:12,121 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-13 10:28:12,123 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-13 10:28:17,437 INFO (StartupInfoLogger.java:59)- Started CompanyApplication in 6.244 seconds (JVM running for 10.252)
+2019-07-13 10:29:13,727 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-13 10:29:13,727 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-13 10:29:13,775 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 10:29:13,789 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 10:29:13,873 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 10:29:13,876 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 11:09:30,869 INFO (StartupInfoLogger.java:50)- Starting CompanyApplication on LAPTOP-S6D27TEO with PID 14784 (D:\study\company\target\classes started by 123 in D:\study\company)
+2019-07-13 11:09:30,869 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-13 11:09:30,869 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-13 11:09:35,100 INFO (StartupInfoLogger.java:59)- Started CompanyApplication in 4.981 seconds (JVM running for 7.285)
+2019-07-13 11:10:37,288 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-13 11:10:37,288 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-13 11:10:37,330 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 11:10:37,330 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 11:10:37,389 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 11:10:37,391 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 11:10:41,314 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-13 11:10:41,316 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 11:10:41,322 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-13 11:10:41,323 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 11:10:41,331 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 11:10:41,331 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 11:10:58,223 INFO (StartupInfoLogger.java:50)- Starting CompanyApplication on LAPTOP-S6D27TEO with PID 17768 (D:\study\company\target\classes started by 123 in D:\study\company)
+2019-07-13 11:10:58,223 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-13 11:10:58,223 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-13 11:11:02,031 INFO (StartupInfoLogger.java:59)- Started CompanyApplication in 4.556 seconds (JVM running for 6.971)
+2019-07-13 11:11:12,961 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-13 11:11:12,961 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-13 11:11:13,008 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 11:11:13,008 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 11:11:13,048 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 11:11:13,048 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 11:11:37,794 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-13 11:11:37,796 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 11:11:37,795 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-13 11:11:37,797 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 11:11:37,807 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 11:11:37,807 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 11:11:54,591 INFO (StartupInfoLogger.java:50)- Starting CompanyApplication on LAPTOP-S6D27TEO with PID 1424 (D:\study\company\target\classes started by 123 in D:\study\company)
+2019-07-13 11:11:54,608 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-13 11:11:54,611 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-13 11:12:01,718 INFO (StartupInfoLogger.java:59)- Started CompanyApplication in 8.449 seconds (JVM running for 11.547)
+2019-07-13 11:12:07,569 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-13 11:12:07,569 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-13 11:12:07,624 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 11:12:07,624 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 11:12:07,680 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 11:12:07,682 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 17:53:41,474 INFO (StartupInfoLogger.java:50)- Starting CompanyApplication on LAPTOP-S6D27TEO with PID 19020 (D:\study\company\target\classes started by 123 in D:\study\company)
+2019-07-13 17:53:41,474 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-13 17:53:41,474 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-13 17:53:47,342 INFO (StartupInfoLogger.java:59)- Started CompanyApplication in 7.588 seconds (JVM running for 11.222)
+2019-07-13 17:54:12,633 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-13 17:54:12,633 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-13 17:54:12,676 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 17:54:12,676 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 17:54:12,726 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 17:54:12,727 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 17:59:13,771 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-13 17:59:13,773 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 17:59:13,775 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-13 17:59:13,778 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 17:59:13,790 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 17:59:13,790 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 17:59:52,580 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-13 17:59:52,580 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-13 17:59:52,581 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 17:59:52,581 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 17:59:52,587 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 17:59:52,588 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 21:02:17,814 INFO (StartupInfoLogger.java:50)- Starting CompanyApplication on LAPTOP-S6D27TEO with PID 19280 (D:\study\company\target\classes started by 123 in D:\study\company)
+2019-07-13 21:02:17,821 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-13 21:02:17,823 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-13 21:02:21,712 INFO (StartupInfoLogger.java:59)- Started CompanyApplication in 4.738 seconds (JVM running for 7.164)
+2019-07-13 21:19:53,505 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-13 21:19:53,505 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-13 21:19:53,542 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 21:19:53,542 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 21:19:53,595 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 21:19:53,597 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 21:36:59,737 INFO (StartupInfoLogger.java:50)- Starting CompanyApplication on LAPTOP-S6D27TEO with PID 19280 (D:\study\company\target\classes started by 123 in D:\study\company)
+2019-07-13 21:36:59,738 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-13 21:36:59,739 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-13 21:37:01,734 INFO (StartupInfoLogger.java:59)- Started CompanyApplication in 2.125 seconds (JVM running for 2087.186)
+2019-07-13 21:42:39,637 INFO (StartupInfoLogger.java:50)- Starting CompanyApplication on LAPTOP-S6D27TEO with PID 19280 (D:\study\company\target\classes started by 123 in D:\study\company)
+2019-07-13 21:42:39,638 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-13 21:42:39,642 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-13 21:42:41,729 INFO (StartupInfoLogger.java:59)- Started CompanyApplication in 2.19 seconds (JVM running for 2427.182)
+2019-07-13 21:46:19,872 INFO (StartupInfoLogger.java:50)- Starting CompanyApplication on LAPTOP-S6D27TEO with PID 19280 (D:\study\company\target\classes started by 123 in D:\study\company)
+2019-07-13 21:46:19,873 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-13 21:46:19,874 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-13 21:46:22,484 INFO (StartupInfoLogger.java:59)- Started CompanyApplication in 2.75 seconds (JVM running for 2647.936)
+2019-07-13 21:49:24,731 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-13 21:49:24,739 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 21:49:24,747 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 21:49:24,749 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-13 21:49:24,752 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 21:49:24,758 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 21:49:53,515 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-13 21:49:53,516 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 21:49:53,516 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-13 21:49:53,517 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 21:49:53,525 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 21:49:53,526 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 21:49:55,908 INFO (StartupInfoLogger.java:50)- Starting CompanyApplication on LAPTOP-S6D27TEO with PID 19280 (D:\study\company\target\classes started by 123 in D:\study\company)
+2019-07-13 21:49:55,909 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-13 21:49:55,909 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-13 21:49:58,308 INFO (StartupInfoLogger.java:59)- Started CompanyApplication in 2.482 seconds (JVM running for 2863.76)
+2019-07-13 21:50:00,726 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-13 21:50:00,732 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 21:50:00,738 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 21:50:00,752 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-13 21:50:00,754 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 21:50:00,764 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 21:50:22,812 INFO (StartupInfoLogger.java:50)- Starting CompanyApplication on LAPTOP-S6D27TEO with PID 3064 (D:\study\company\target\classes started by 123 in D:\study\company)
+2019-07-13 21:50:22,823 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-13 21:50:22,829 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-13 21:50:34,099 INFO (StartupInfoLogger.java:59)- Started CompanyApplication in 12.952 seconds (JVM running for 20.187)
+2019-07-13 21:53:50,263 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-13 21:53:50,263 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-13 21:53:50,349 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 21:53:50,349 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 21:53:50,495 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 21:53:50,500 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 21:55:51,232 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-13 21:55:51,240 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 21:55:51,240 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-13 21:55:51,242 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 21:55:51,252 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 21:55:51,267 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 22:19:27,196 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-13 22:19:27,198 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-13 22:19:27,198 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 22:19:27,199 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 22:19:27,206 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 22:19:27,207 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 22:19:36,986 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-13 22:19:36,987 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 22:19:36,987 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-13 22:19:36,988 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 22:19:36,993 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 22:19:36,994 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 22:21:11,723 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-13 22:21:11,724 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 22:21:11,725 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-13 22:21:11,726 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 22:21:11,734 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 22:21:11,736 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 22:28:13,760 INFO (StartupInfoLogger.java:50)- Starting CompanyApplication on LAPTOP-S6D27TEO with PID 3064 (D:\study\company\target\classes started by 123 in D:\study\company)
+2019-07-13 22:28:13,761 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-13 22:28:13,762 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-13 22:28:15,813 INFO (StartupInfoLogger.java:59)- Started CompanyApplication in 2.173 seconds (JVM running for 2281.901)
+2019-07-13 22:33:02,049 INFO (StartupInfoLogger.java:50)- Starting CompanyApplication on LAPTOP-S6D27TEO with PID 3064 (D:\study\company\target\classes started by 123 in D:\study\company)
+2019-07-13 22:33:02,050 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-13 22:33:02,051 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-13 22:33:03,859 INFO (StartupInfoLogger.java:59)- Started CompanyApplication in 1.872 seconds (JVM running for 2569.947)
+2019-07-13 22:33:17,672 INFO (StartupInfoLogger.java:50)- Starting CompanyApplication on LAPTOP-S6D27TEO with PID 3064 (D:\study\company\target\classes started by 123 in D:\study\company)
+2019-07-13 22:33:17,672 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-13 22:33:17,673 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-13 22:33:20,365 INFO (StartupInfoLogger.java:59)- Started CompanyApplication in 2.77 seconds (JVM running for 2586.452)
+2019-07-13 22:33:27,999 INFO (StartupInfoLogger.java:50)- Starting CompanyApplication on LAPTOP-S6D27TEO with PID 3064 (D:\study\company\target\classes started by 123 in D:\study\company)
+2019-07-13 22:33:28,000 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-13 22:33:28,000 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-13 22:33:30,374 INFO (StartupInfoLogger.java:59)- Started CompanyApplication in 2.462 seconds (JVM running for 2596.462)
+2019-07-13 22:37:52,748 INFO (StartupInfoLogger.java:50)- Starting CompanyApplication on LAPTOP-S6D27TEO with PID 3064 (D:\study\company\target\classes started by 123 in D:\study\company)
+2019-07-13 22:37:52,748 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-13 22:37:52,749 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-13 22:37:54,613 INFO (StartupInfoLogger.java:59)- Started CompanyApplication in 1.928 seconds (JVM running for 2860.702)
+2019-07-13 22:40:07,024 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-13 22:40:07,029 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 22:40:07,039 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 22:40:07,040 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-13 22:40:07,041 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 22:40:07,049 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 22:43:07,732 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-13 22:43:07,733 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 22:43:07,733 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-13 22:43:07,736 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 22:43:07,742 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 22:43:07,744 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 22:44:16,462 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from product 
+2019-07-13 22:44:16,464 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 22:44:16,467 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select * from news order by writeDate desc limit 0,8 
+2019-07-13 22:44:16,470 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 22:44:16,470 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 
+2019-07-13 22:44:16,479 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 8
+2019-07-13 22:44:40,044 INFO (StartupInfoLogger.java:50)- Starting CompanyApplication on LAPTOP-S6D27TEO with PID 12492 (D:\study\company\target\classes started by 123 in D:\study\company)
+2019-07-13 22:44:40,056 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+2019-07-13 22:44:40,057 INFO (SpringApplication.java:646)- No active profile set, falling back to default profiles: default
+2019-07-13 22:44:49,027 INFO (StartupInfoLogger.java:59)- Started CompanyApplication in 10.505 seconds (JVM running for 14.677)

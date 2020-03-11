@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.zryx.company.mapper.ProductsMapper">
+    <select id="selTop8Product" resultType="com.zryx.company.model.Product">
+        select * from product limit 0,8
+    </select>
+
+    <select id="allProducts" resultType="com.zryx.company.model.Product">
+        select * from product
+    </select>
+
+    <insert id="addProducts" parameterType="com.zryx.company.model.Product">
+        INSERT INTO product VALUES(NULL,#{serialNumber},#{name} ,#{brand},#{model},#{price},#{picture},#{description})
+    </insert>
+
+    <delete id="delProducts">
+        DELETE FROM product WHERE productId = #{nId}
+    </delete>
+
+    <update id="updProducts" parameterType="com.zryx.company.model.Product">
+        UPDATE product SET serialNumber=#{serialNumber} ,name=#{name} ,brand=#{brand} ,model=#{model},price=#{price},picture=#{picture},description=#{description} WHERE productId = #{productId}
+    </update>
+
+    <select id="getProductById" resultType="com.zryx.company.model.Product">
+        SELECT  * FROM  product WHERE productId = #{id}
+    </select>
+
+    <select id="getProductByPage" resultType="com.zryx.company.model.Product">
+        SELECT * FROM product LIMIT #{from},#{size}
+    </select>
+
+    <select id="dataCount" resultType="java.lang.Integer">
+        SELECT COUNT(*) FROM product
+    </select>
+</mapper>
